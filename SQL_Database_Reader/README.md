@@ -1,9 +1,9 @@
 # How to Run
-Enter into IDE terminal:
+Enter into IDE terminal to clone repository and run program:
 ```
 git clone https://github.com/Tim-Moughayar/PORTFOLIO.git
 cd PORTFOLIO/SQL_Database_Reader
-python sql_program.py
+python sql_program.py                
 ```
 
 After running the commands above, follow the prompts in the terminal.
