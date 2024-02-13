@@ -1,5 +1,22 @@
-**How to Run**
+# How to Run
+Enter into IDE terminal:
+```
+git clone https://github.com/Tim-Moughayar/PORTFOLIO.git
+cd PORTFOLIO/SQL_Database_Reader
+python sql_program.py
+```
 
-1. Download [zipped_sqlite_database_reader.zip](zipped_sqlite_database_reader.zip). &emsp; &emsp; (Contains Northwind.db, sql_program.py, test_sql_program.py).
-2. Open unzipped folder in a Python-supported IDE.
-3. Run "sql_program.py" and follow the prompts in the terminal.
+After running the commands above, follow the prompts in the terminal.
+
+<br/>
+
+## Don't have Python or GIT?
+**Install Python:**\
+Python 3.12.2: https://www.python.org/downloads/release/python-3122/
+
+<br/>
+
+**Install Git:**
+- Mac: install [Homebrew](http://mxcl.github.com/homebrew/) first, then `brew install git`.
+- Windows or Linux: see [Installing Git](http://git-scm.com/book/en/Getting-Started-Installing-Git) from the _Pro Git_ book.
+
