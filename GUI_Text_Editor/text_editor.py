@@ -89,7 +89,7 @@ class Root(tk.Tk):
 
     @property
     def text_content(self):
-        """Get all the text from text editor page"""
+        """Get all the text from text editor page."""
         return self._text_frame.text
 
     def __init__(self, *args, **kwargs):
