@@ -4,4 +4,6 @@
 
 * **[SQL Database Reader](SQL_Database_Reader)** - The database reader uses the sqlite3 module to display, insert, update, and delete data from a SQLite database file.
 
+* **[Blackjack Card Game](Blackjack_Card_Game)** - Talking points.
+
 ## Web - HTML, CSS & PHP
