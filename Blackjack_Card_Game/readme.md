@@ -34,8 +34,6 @@ python blackjack_card_game.py
 **Install Python:**
 - Python 3.12.2: https://www.python.org/downloads/release/python-3122/
 
-<br/>
-
 **Install Git:**
 - Mac: install [Homebrew](http://mxcl.github.com/homebrew/) first, then `brew install git`.
 - Windows or Linux: see [Installing Git](http://git-scm.com/book/en/Getting-Started-Installing-Git) from the _Pro Git_ book.
