@@ -10,4 +10,4 @@
 
 **Jac Wraps Website Redesign**:
 
-https://github.com/Tim-Moughayar/Jac-Wraps-Redesign-v2
+https://github.com/Tim-Moughayar/Jac-Wraps-Website-Redesign-v2
