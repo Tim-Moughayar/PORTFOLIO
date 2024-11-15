@@ -6,8 +6,8 @@
 
 * **[Blackjack Card Game](Blackjack_Card_Game)** - Play the casino card game, blackjack. The GUI is made with Tkinter.
 
-## Web - HTML, CSS & PHP
+## Web Development
 
 **Jac Wraps Website Redesign**:
 
-https://github.com/Tim-Moughayar/Jac-Wraps-Website
+https://github.com/Tim-Moughayar/Jac-Wraps-Redesign-v2
